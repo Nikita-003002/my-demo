@@ -1,0 +1,12 @@
+This
+is
+a
+text
+doxument
+for
+git
+repo
+it
+is
+for
+practice
